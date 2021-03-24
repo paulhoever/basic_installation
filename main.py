@@ -25,3 +25,5 @@ with open("test.config", "a") as f:
      f.write("Anus\n")
 
 print("done!")
+
+os.system("cmatrix")
