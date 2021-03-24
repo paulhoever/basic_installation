@@ -7,6 +7,7 @@ print("###################################################")
 os.system("sudo apt update")
 os.system("sudo apt upgrade -y")
 os.system("sudo apt install neofetch -y")
+os.system("sudo apt install cmatrix -y")
 
 print("###################################################\n")
 
